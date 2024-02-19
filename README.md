@@ -9,7 +9,7 @@ The IBM Data Science Professional Certification is a rigorous, comprehensive pro
 #### [2. Tools for Data Science](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/2.%20Tools%20for%20Data%20Science)
 #### [3. Data Science Methodology](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/3.%20Data%20Science%20Methodology)
 #### [4. Python for Data Science, AI & Development](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/4.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
-#### [5. Python Project for Data Science]()
+#### [5. Python Project for Data Science](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/5.%20Python%20Project%20for%20Data%20Science)
 #### [6. Databases and SQL for Data Science with Python]()
 #### [7. Data Analysis with Python]()
 #### [8. Data Visualization with Python]()
