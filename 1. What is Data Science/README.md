@@ -26,5 +26,9 @@ This comprehensive course covered essential aspects of Data Science, from statis
 - Crafting compelling narratives to present data-driven findings
 - Advanced statistical analysis techniques for predictive modeling
 
-## Course contents
+## Course timeline
+
 ### [WEEK 1: Defining Data Science and What Data Scientist Do](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/1.%20What%20is%20Data%20Science/Week1)
+### [WEEK 2: Data Science Topics](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/1.%20What%20is%20Data%20Science/Week2)
+### [WEEK 3: Defining Data Science and What Data Scientist Do](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/1.%20What%20is%20Data%20Science/Week3)
+### [WEEK 4: Defining Data Science and What Data Scientist Do](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/1.%20What%20is%20Data%20Science/Week4)
