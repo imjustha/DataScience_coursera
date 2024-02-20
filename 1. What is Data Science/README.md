@@ -35,3 +35,7 @@ This course has equipped me with the knowledge and skills to tackle complex data
 
 ## 🏆 Certificates 
 To verify the certificates, click the images to follow the links.
+<p aligh="middle">
+  <a href="https://www.coursera.org/account/accomplishments/verify/5L98XA7LS4VT"><img src="https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/assets/76855473/e64ed989-5bce-4b06-b0f3-0c3fdb1bf2f2" height="400"></a>
+
+
