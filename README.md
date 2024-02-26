@@ -19,11 +19,18 @@ The IBM Data Science Professional Certification is a rigorous, comprehensive pro
 ## ⚙️Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="80">
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" height="80">
+<img src="https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/assets/76855473/2e765ea1-12d7-4f92-b47a-7f5cfe952069" height="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="80">
+
 ## 📚Libraries
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" height="80">
 
 ## 🗂️Projects
 
 ## 🏆Certificates
 
 
+![0_pBUKeJ5j2XPw8SyZ](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/assets/76855473/2e765ea1-12d7-4f92-b47a-7f5cfe952069)
