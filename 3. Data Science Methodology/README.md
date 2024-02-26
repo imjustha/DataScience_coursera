@@ -2,8 +2,7 @@
 
 ## Certificates 
 <p aligh="middle">
-  <a href="https://coursera.org/share/43b8d538772cde29e185b98ed073483d"><img src="https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/assets/76855473/e64ed989-5bce-4b06-b0f3-0c3fdb1bf2f2" height="400"></a>
-
+  <a href="https://coursera.org/share/43b8d538772cde29e185b98ed073483d"><img src="https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/assets/76855473/b1cffeb3-c284-4a30-95ec-7918bf799db5" height="400"></a>
 
 ## Summary
 This data science course is meticulously structured to cover the entire spectrum of data science methodologies and applications. It begins with an introduction to data science tools and methodologies, progresses through the intricacies of programming languages and data handling, and culminates in practical applications using industry-standard methodologies like CRISP-DM and foundational methodologies developed by John Rollins. The course is designed not only to impart theoretical knowledge but also to provide hands-on experience through labs and a final project that simulates real-world data science problems.
@@ -34,7 +33,7 @@ The course offers a holistic view of the data science journey, emphasizing a str
 
 ## Course timeline
 
-### [WEEK 1: From Problem to Approach and From Requirements to Collection]
-### [WEEK 2: From Understanding to Preparation and From Modeling to Evaluation]
-### [WEEK 3: From Deployment to Feedback and Final Evaluation]
-### [WEEK 4: Final Project and Assessment]
+### [WEEK 1: From Problem to Approach and From Requirements to Collection](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/3.%20Data%20Science%20Methodology/Week1)
+### [WEEK 2: From Understanding to Preparation and From Modeling to Evaluation](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/3.%20Data%20Science%20Methodology/Week2)
+### [WEEK 3: From Deployment to Feedback and Final Evaluation](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/3.%20Data%20Science%20Methodology/Week3)
+### WEEK 4: Final Project and Assessment
