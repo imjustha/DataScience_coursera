@@ -17,6 +17,7 @@ The IBM Data Science Professional Certification is a rigorous, comprehensive pro
 #### 🔟[Applied Data Science Capstone]()
 
 ## ⚙️Tools
+<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" height="80"/>
