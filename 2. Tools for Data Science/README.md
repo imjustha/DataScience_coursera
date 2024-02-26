@@ -2,7 +2,7 @@
 
 ## Certificates 
 <p aligh="middle">
-  <a href="https://www.coursera.org/account/accomplishments/verify/5L98XA7LS4VT"><img src="https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/assets/76855473/e64ed989-5bce-4b06-b0f3-0c3fdb1bf2f2" height="400"></a>
+  <a href="https://coursera.org/share/55264edc0a762febeebe9f7b3e709179"><img src="https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/assets/76855473/738aca8f-07f8-4cb5-ae48-69656da1f93d" height="400"></a>
 
 
 ## Summary
@@ -26,13 +26,10 @@ The course is structured into modules that cover a broad spectrum of data scienc
 
 ## Course timeline
 
-### [WEEK 1: Overview of Data Science Tools]
-### [WEEK 2: Languages of Data Science]
-### [WEEK 3: Packages, APIs, Datasets and Models]
-### [WEEK 4: Jupyter Notebooks and JupyterLab]
-### [WEEK 5: RStudio & GitHub]
+### [WEEK 1: Overview of Data Science Tools](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/2.%20Tools%20for%20Data%20Science/Week1)
+### [WEEK 2: Languages of Data Science](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/2.%20Tools%20for%20Data%20Science/Week2)
+### [WEEK 3: Packages, APIs, Datasets and Models](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/2.%20Tools%20for%20Data%20Science/Week3)
+### [WEEK 4: Jupyter Notebooks and JupyterLab](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/2.%20Tools%20for%20Data%20Science/Week4)
+### [WEEK 5: RStudio & GitHub](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/2.%20Tools%20for%20Data%20Science/Week5)
 ### [WEEK 6: Create and Share your Jupyter Notebook]
-### [WEEK 7: IBM Watson Studio]
-
-
-
+### [WEEK 7: IBM Watson Studio](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/2.%20Tools%20for%20Data%20Science/Week7)
