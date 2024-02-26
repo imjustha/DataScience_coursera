@@ -1,10 +1,10 @@
 [![Header](file:///Users/hajeong/Desktop/IBM-Data-Science-Professional-Certification-1.webp)
 
-# About this course
+# 📃About this course
 The IBM Data Science Professional Certification is a rigorous, comprehensive program offered by IBM through Coursera. It consists of 10 courses that cover a wide array of data science topics, from the basics of what data science is, to more complex subjects such as machine learning and data visualization. This certification has equipped me with both the theoretical understanding and practical skills needed to solve data science problems effectively.
 
 
-## Course contents
+## 📒Course contents
 #### [1. What is Data Science?](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/1.%20What%20is%20Data%20Science)
 #### [2. Tools for Data Science](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/2.%20Tools%20for%20Data%20Science)
 #### [3. Data Science Methodology](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/3.%20Data%20Science%20Methodology)
@@ -16,13 +16,13 @@ The IBM Data Science Professional Certification is a rigorous, comprehensive pro
 #### [9. Machine Learning with Python]()
 #### [10. Applied Data Science Capstone]()
 
-## Tools
+## ⚙️Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
           
-## Libraries
+## 📚Libraries
 
-## Projects
+## 🗂️Projects
 
-## Certificates
+## 🏆Certificates
 
