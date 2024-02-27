@@ -2,7 +2,7 @@
 
 ## Certificates 
 <p aligh="middle">
-  <a href="https://coursera.org/share/43b8d538772cde29e185b98ed073483d"><img src="https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/assets/76855473/b1cffeb3-c284-4a30-95ec-7918bf799db5" height="400"></a>
+  <a href="https://coursera.org/share/577c9bcf07459df260d54cce8f09469f"><img src="https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/assets/76855473/bb8eb49a-d3e9-4726-9f3f-22793c14b460" height="400"></a>
 
 ## Summary
 This Python Programming course offers an extensive exploration of Python, from its fundamental syntax to advanced data manipulation and collection techniques. It's designed to provide a comprehensive understanding of Python's capabilities, structured around five modules that cover Python basics, data structures, programming fundamentals, working with data, and APIs and data collection. Through a blend of theoretical knowledge and practical application, including hands-on projects and labs, learners are equipped to tackle real-world programming challenges with Python.
@@ -34,10 +34,10 @@ By the end of this course, learners will have a robust understanding of Python p
 
 ## Course timeline
 
-### [WEEK 1: Python Basics]
-### [WEEK 2: Python Data Structures]
-### [WEEK 3: Python Programming Fundamentals]
-### [WEEK 4: Working with Data in Python]
-### [WEEK 5: APIs, and Data Collection]
+### [WEEK 1: Python Basics](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/4.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Week1)
+### [WEEK 2: Python Data Structures](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/4.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Week2)
+### [WEEK 3: Python Programming Fundamentals](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/4.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Week3)
+### [WEEK 4: Working with Data in Python](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/4.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Week4)
+### [WEEK 5: APIs, and Data Collection](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/4.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Week5)
 
 
