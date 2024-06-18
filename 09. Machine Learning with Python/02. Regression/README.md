@@ -65,7 +65,10 @@ There are different metrics to report the accuracy of the model, but most of the
 
 To calculate the accuracy of our regression model, we can just compare the actual values, `y`, with the predicted values, <img src="https://render.githubusercontent.com/render/math?math=\hat{y}">. The error of the model is calculated as the average difference between the predicted and actual values for all the rows. We can write this error as an equation: 
 
-<img src="https://render.githubusercontent.com/render/math?math=\large \text{Error} = \frac{1}{n}\sum_{j=1}^{n}\left|{y_j-\hat{y}_j}\right|">
+![Screenshot 2024-06-18 at 6 24 11 PM](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/assets/76855473/98505927-728a-45cc-8acd-53a9b2447237)
+![Screenshot 2024-06-18 at 6 25 03 PM](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/assets/76855473/dc25c92d-6336-4e63-9bac-6d50b55703cd)
+![Screenshot 2024-06-18 at 6 25 38 PM](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/assets/76855473/3bf6fc53-0a0d-46cc-be26-a2511dd82cb5)
+
 
 In a general sense, when you test with a dataset in which you know the target value for each data point, you're able to obtain a percentage of accurate predictions for the model. This evaluation approach would most likely have a *high training accuracy* and the *low out-of-sample accuracy*, since the model knows all of the testing data points from the training. 
 
@@ -82,7 +85,7 @@ This will provide a more accurate evaluation on out-of-sample accuracy because t
 
 The issue with train/test split is that it's highly dependent on the datasets on which the data was trained and tested. The variation of this causes train/test split to have a *better out-of-sample prediction* than training and testing on the same dataset, but it still has some problems due to this dependency.
 
-![train_test_split_evaluation_approach](Images/train_test_split_evaluation_approach.png)
+![Screenshot 2024-06-18 at 6 22 30 PM](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/assets/76855473/c9d3120d-3b80-4b98-a425-4c4db1e05d16)
 
 ### K-Fold Cross Validation
 Another evaluation model, called K-fold cross-validation, resolves most of these issues. To fix a high variation that results from a dependency, you can just average it.
@@ -96,39 +99,33 @@ Another evaluation model, called K-fold cross-validation, resolves most of these
 
 K-fold cross-validation in its simplest form performs multiple train/test splits, using the same dataset where each split is different. Then, the result is average to produce a more consistent out-of-sample accuracy. 
 
-![k_fold_cross_validation](Images/k_fold_cross_validation.png)
+![Screenshot 2024-06-18 at 6 26 22 PM](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/assets/76855473/966a207e-e320-4216-918f-b8b58cc2ccd9)
 
 
 
 ### Evaluation Metrics in Regression Models\n",
 Evaluation metrics are used to explain the performance of a model, and they provide a key role in the development of a model as it provides insight to areas that require improvement In the context of regression, the error of the model is the difference between the data points and the trend line predicted by the algorithm. Since there are multiple data points, an error can be determined in multiple ways.
     
-![error_def](Images/error_def.png)
+
+![Screenshot 2024-06-18 at 6 27 21 PM](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/assets/76855473/5ccae2dd-d3d6-4bb7-b2ef-10cb4b62ceb7)
+
+
 
 Each of the following metrics can be used for quantifying of your prediction. The choice of metric completely depends on the type of model, the data type, and domain of knowledge.
 
 #### Mean Absolute Error (MAE)
 Mean Absolute Error is the mean of the absolute value of the errors. This is the easiest of the metrics to understand, since it's just the average error.
 
-<img src="https://render.githubusercontent.com/render/math?math=\large \text{MAE} = \frac{1}{n}\sum_{j=1}^{n}\left|{y_j-\hat{y}_j}\right|">
-
 #### Mean Squared Error (MSE)
 Mean Squared Error is the mean of the squared error. It's more popular than Mean Absolute Error because the focus is geared more towards large errors. This is due to the squared term, exponentially increasing larger errors in comparison to smaller ones.
-
-<img src="https://render.githubusercontent.com/render/math?math=\large \text{MSE} = \frac{1}{n}\sum_{j=1}^{n}\left({y_j-\hat{y}_j}\right)^2">
 
 #### Root Mean Squared Error (RMSE)
 Root Mean Squared Error is the square root of the mean squared error. This is one of the most popular of the evaluation metrics because Root Mean Squared Error is interpretable in the same units as the response vector or Y units, making it easy to relate its information.
 
-<img src="https://render.githubusercontent.com/render/math?math=\large \text{RMSE} = \sqrt{\frac{1}{n}\sum_{j=1}^{n}\left({y_j-\hat{y}_j}\right)^2}">
-
 #### Relative Absolute Error (RAE)
 Relative absolute error, also known as residual sum of square, where $\\bar{y} is a mean value of `y`, takes the total absolute error and normalizes it by dividing by the total absolute error of the simple predictor.
-
-<img src="https://render.githubusercontent.com/render/math?math=\large \text{RAE} = \frac{\sum_{j=1}^{n}\left|y_j-\hat{y}_j\right|}{\sum_{j=1}^{n}\left|y_j-\bar{y}\right|}">
 
 #### Relative Squared Error (RSE)
 Relative squared error is very similar to relative absolute error, but is widely adopted by the data science community as it is used for calculating `R^2`. `R^2` is not an error per say but is a popular metric for the accuracy of your model. It represents how close the data values are to the fitted regression line. The higher the `R^2`, the better the model fits your data.
 
-<img src="https://render.githubusercontent.com/render/math?math=\large \text{RSE} = \frac{\sum_{j=1}^{n}\left(y_j-\hat{y}_j\right)^2}{\sum_{j=1}^{n}\left(y_j-\bar{y}\right)^2}">
-<img src="https://render.githubusercontent.com/render/math?math=\large R^2 = 1 - RSE">
+![Screenshot 2024-06-18 at 6 27 38 PM](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/assets/76855473/bb39a364-b71d-4194-911e-b1fac402baad)
