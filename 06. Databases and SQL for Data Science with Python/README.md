@@ -2,7 +2,7 @@
 
 ## Certificates 
 <p aligh="middle">
-  <a href="https://coursera.org/share/fafc5bdfe840b037e0274f6eebe137ee"><img src="https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/assets/76855473/b9edba00-4cee-4696-abda-49375eadf682" height="400"></a>
+  <a href="https://coursera.org/share/fafc5bdfe840b037e0274f6eebe137ee"><img src="https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/assets/76855473/b9edba00-4cee-4696-abda-49375eadf682" height="600"></a>
 
 
 ## WHAT I LEARNED
