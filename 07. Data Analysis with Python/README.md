@@ -5,12 +5,19 @@
   <a href="https://coursera.org/share/7358964fb579408a53037c29720649c7"><img src="https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/assets/76855473/309f3794-aba0-4046-853e-36c7c3daf9c9" height="600"></a>
 
 
-## Topics
+## WHAT I LEARNED
 - Develop Python code for cleaning and preparing data for analysis - including handling missing values, formatting, normalizing, and binning data
 - Perform exploratory data analysis and apply analytical techniques to real-word datasets using libraries such as Pandas, Numpy and Scipy
 - Manipulate data using dataframes, summarize data, understand data distribution, perform correlation and create data pipelines
 - Build and evaluate regression models using machine learning scikit-learn library and use them for prediction and decision making
-  
+
+## KEY SKILLS
+- Model Selection
+- Data Analysis
+- Python Programming
+- Data Visualization
+- Predictive Modelling
+
 ## Main Projects
 - [Importing Data Sets for used cars pricing](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/07.%20Data%20Analysis%20with%20Python/01.%20Importing%20Data%20Sets)
 - [Data Wrangling for used cars pricing](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/02.%20Data%20Wrangling/Data%20Wrangling%20-%20Used%20Cars%20Pricing.ipynb)
