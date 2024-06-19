@@ -1,4 +1,4 @@
-# 1. Databases and SQL for Data Science with Python
+# 6. Databases and SQL for Data Science with Python
 
 ## Certificates 
 <p aligh="middle">
