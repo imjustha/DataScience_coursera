@@ -10,11 +10,11 @@ The IBM Data Science Professional Certification is a rigorous, comprehensive pro
 #### 3️⃣[Data Science Methodology](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/3.%20Data%20Science%20Methodology)
 #### 4️⃣[Python for Data Science, AI & Development](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/4.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
 #### 5️⃣[Python Project for Data Science](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/5.%20Python%20Project%20for%20Data%20Science)
-#### 6️⃣[Databases and SQL for Data Science with Python]()
-#### 7️⃣[Data Analysis with Python]()
-#### 8️⃣[Data Visualization with Python]()
-#### 9️⃣[Machine Learning with Python]()
-#### 🔟[Applied Data Science Capstone]()
+#### 6️⃣[Databases and SQL for Data Science with Python](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
+#### 7️⃣[Data Analysis with Python](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/07.%20Data%20Analysis%20with%20Python)
+#### 8️⃣[Data Visualization with Python](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/08.%20Data%20Visualization%20with%20Python)
+#### 9️⃣[Machine Learning with Python](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/09.%20Machine%20Learning%20with%20Python)
+#### 🔟[Applied Data Science Capstone](https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone)
 
 ## ⚙️Tools
 <br> <br>
@@ -32,3 +32,5 @@ The IBM Data Science Professional Certification is a rigorous, comprehensive pro
 ## 🗂️Projects
 
 ## 🏆Certificates
+<p aligh="middle">
+  <a href="https://coursera.org/share/005626114852fe78f6e4dcd9846a3f36"><img src="https://github.com/imjustha/IBM_DataScienceProfessional_Certificate/assets/76855473/46a44a2e-04b7-4398-b15c-9727806ccbb7" height="600"></a>
